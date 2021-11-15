@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "anailias",
+      "password": "salah",
+      "email": "thefirstoula@hotmail.com",
+      "id": 1
+    },
+    {
+      "username": "ayoub",
+      "password": "ayoub",
+      "email": "ayoub@blouza.kmama",
+      "id": 2
+    },
+    {
+      "username": "ayoub",
+      "password": "ayoub",
+      "email": "ayoub1@kmama.blouza",
+      "id": 3
+    },
+    {
+      "username": "anas",
+      "password": "AAAA",
+      "email": "ana@gmail.Com",
+      "id": 4
+    }
+  ]
+}
